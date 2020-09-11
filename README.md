@@ -1,7 +1,8 @@
 # Laboratorio Software Avanzado
-## Práctica 4
+## Práctica 5
 
-En esta práctica se ha agregado un ESB a la coreografía de los servicios de la práctica #3.
+Este repositorio contiene el proyecto inicial que se ha estado desarrollando en las prácticas anteriores
+agregando técnicas de DevOps para CI/CD y agregando buenas prácticas y estándares de desarrollo.
 
 
 ## ESB
