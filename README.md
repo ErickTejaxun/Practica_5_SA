@@ -23,7 +23,7 @@ node app.js
 ## Micro servicio Cliente
 Este micro servicio sirve como interfaz para el usuario. 
 
-Para instalar las librerías necesarias:
+Para instalar las librerías necesarias:g
 ```bash
 yarn install package.json
 ```
