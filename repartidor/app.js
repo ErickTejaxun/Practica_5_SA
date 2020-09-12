@@ -119,7 +119,8 @@ var notificarEntregaCliente = function(codigo)
 //var path = '/pedido/recoger';
 app.post('/pedido/recoger', (req, res)=>
 {
-    var codigo = req.params.codigo; 
+    //var codigo = req.params.codigo; 
+    var codigo = 1;
     pedidos.push(codigo);
     var mensaje = '***********Se le ha notificado al repartidor que puede recoger el pedido. Código: '+codigo + '************';    
     console.log(mensaje);    
